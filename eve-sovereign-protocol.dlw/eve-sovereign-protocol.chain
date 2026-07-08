@@ -4,6 +4,6 @@ slug  : eve-sovereign-protocol
 seal  : 812d338791e778d4e782f6fbf707e3894a3c13d3ace7a5009ed9132348ca1505
 prev  : c849d07a7fe3f51d1c24598897e5b212976025a204e5ec96a38dc01aadb330fc
 link  : dce1e4b73c4f783aec25607f5c172dfed6aaa55fa1820394011e9ab25d017139
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
