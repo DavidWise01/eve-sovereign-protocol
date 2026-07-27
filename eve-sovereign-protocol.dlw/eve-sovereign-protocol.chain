@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 279
 slug  : eve-sovereign-protocol
 seal  : 812d338791e778d4e782f6fbf707e3894a3c13d3ace7a5009ed9132348ca1505
-prev  : c849d07a7fe3f51d1c24598897e5b212976025a204e5ec96a38dc01aadb330fc
-link  : dce1e4b73c4f783aec25607f5c172dfed6aaa55fa1820394011e9ab25d017139
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 03cf6a7ca8254a62cc13971dd2daf8ee3f25c1f4d097d7160c2d7a2ed557bd17
+link  : 2b0cbc65256fa14074a2c834aa450ffd37b8928c60f99c93405c2da0be17536b
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
